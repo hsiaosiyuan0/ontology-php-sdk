@@ -8,7 +8,7 @@ This project is the PHP library for the Ontology blockchain.
 
 You'd use [phpbrew](https://github.com/phpbrew/phpbrew) to smoothly switch between different PHP versions.
 
-- PHP >= 7.0.0
+- PHP >= 7.1.23
 - [scrypt](https://github.com/DomBlack/php-scrypt)
 - [libsodium-php](https://github.com/jedisct1/libsodium-php)
 - Build PHP with openssl-1.1.1 which has native support for SM2 and SM3
